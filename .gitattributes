@@ -1,1 +1,2 @@
 Weeds-Dataset.zip filter=lfs diff=lfs merge=lfs -text
+WeedsMOT.zip filter=lfs diff=lfs merge=lfs -text
